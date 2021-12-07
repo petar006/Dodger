@@ -1,5 +1,4 @@
 # Dodger
-A Realno dobra igrica
 25x20 dimenzije terena
 gore levo:x=265 y=60
 dole levo:x=265 y=630
